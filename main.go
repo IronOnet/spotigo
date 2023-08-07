@@ -1,4 +1,4 @@
-package main 
+package main
 
 import (
 	"fmt"
@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/PuertokitoBio/goquery"
-	"github.com/schollz/progresbar/v3"
+	"github.com/PuerkitoBio/goquery"
+	"github.com/schollz/progressbar/v3"
 	"github.com/urfave/cli/v2"
 )
 
